@@ -11,12 +11,12 @@
 * long distance relationship
 * learn about the world
 * online shopping
-* hotel/tickets booing
+* hotel/tickets booking
 * for memorizing vocabulary
 * use the app to test how much I've learned
 * It's more convenient to
 * We save trees
-* relaxing and unwinding
+* relaxing and [unwinding](./vocabulary.md#unwinding "放松")
 * help us focus in class later
 * risk of being stolen or robbed
 * fun to play as a team
@@ -55,13 +55,13 @@ ated world
 * volcano
 * windstorm
 * forest fire
-* the death of organic mstter
+* the death of organic matter
   
 ---
 ## Solution:
 * recycle
 * plant trees
-* get better fuel-efficient cars
+* get better [fuel-efficient](./vocabulary.md#fuel-efficient "节油的") cars
 * contatc the local authorities to raise awareness
 * develop excellent public transportation system
 * encourage [carpool](./vocabulary.md#carpool "拼车") and public transportaion taking
@@ -72,3 +72,24 @@ ated world
 
 ---
 ## expressions:
+* protect the environment
+* dense population
+* urban(city) expansion; urban sprawl
+* average lifetime
+* adjust to the environment
+* endangered species/ endangered animals
+* automobile(vehicle) exhaust
+* lead to abnormal climate
+* damage to the environment
+* dissipate energy
+* consume natural resources/ the consumption of ...
+* non-renewable resouces
+* prevent disease
+* no smoking/ smoking prohibited
+* purify(pure) the air polution
+* alleviate the problem of overpopulation
+* use up(run out of) resources
+* save tropical rainforest
+* sustainable energy(lasting energy) resources
+* factory waste dumping/ dump industrial waste
+* in emergent(crisis) situations
