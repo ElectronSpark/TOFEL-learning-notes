@@ -77,7 +77,7 @@
 * use the app to test how much I've learned
 * It's more convenient to
 * We save trees
-* relaxing and [unwinding](./vocabulary.md#unwinding "放松")
+* relaxing and [unwinding](../vocabulary.md#unwinding "放松")
 * help us focus in class later
 * risk of being stolen or robbed
 * fun to play as a team
@@ -87,7 +87,7 @@
 * educational
 * waste of time
 * bad for your eyes
-* [transfixed](./vocabulary.md#transfix "使...动弹不得") on the computer-gener
+* [transfixed](../vocabulary.md#transfix "使...动弹不得") on the computer-gener
 ated world
 <br><br><br>
 
@@ -122,10 +122,10 @@ ated world
 ## Solution:
 * recycle
 * plant trees
-* get better [fuel-efficient](./vocabulary.md#fuel-efficient "节油的") cars
+* get better [fuel-efficient](../vocabulary.md#fuel-efficient "节油的") cars
 * contatc the local authorities to raise awareness
 * develop excellent public transportation system
-* encourage [carpool](./vocabulary.md#carpool "拼车") and public transportaion taking
+* encourage [carpool](../vocabulary.md#carpool "拼车") and public transportaion taking
 * cut back on the amount of packaging
 * cut down the use of paper
 * raise the cost of campus parking
@@ -148,7 +148,7 @@ ated world
 * prevent disease
 * no smoking/ smoking prohibited
 * purify(pure) the air polution
-* [alleviate](./vocabulary.md#alleviate "减轻") the problem of overpopulation
+* [alleviate](../vocabulary.md#alleviate "减轻") the problem of overpopulation
 * use up(run out of) resources
 * save tropical rainforest
 * sustainable energy(lasting energy) resources
