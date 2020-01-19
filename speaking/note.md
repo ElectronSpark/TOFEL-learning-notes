@@ -8,7 +8,7 @@
 * XXX benefit from ...
 * manage one's personal finances
 * with the convinience of ...
-* lont distance relationship
+* long distance relationship
 * learn about the world
 * online shopping
 * hotel/tickets booing
@@ -26,7 +26,7 @@
 * educational
 * waste of time
 * bad for your eyes
-* transfixed on the computer-gener
+* [transfixed](./vocabulary.md#transfix "使...动弹不得") on the computer-gener
 ated world
 <br><br><br>
 
@@ -64,14 +64,11 @@ ated world
 * get better fuel-efficient cars
 * contatc the local authorities to raise awareness
 * develop excellent public transportation system
-* encourage carpool[^1] and public transportaion taking
+* encourage [carpool](./vocabulary.md#carpool "拼车") and public transportaion taking
 * cut back on the amount of packaging
 * cut down the use of paper
 * raise the cost of campus parking
-* improve the public transit
+* improve the public transition
 
 ---
 ## expressions:
-
-
-[^1]: 拼车
