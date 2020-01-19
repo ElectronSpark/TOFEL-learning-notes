@@ -1,5 +1,66 @@
 # **Speaking**
+考试时间不超过20分钟，说话时间不超过4分钟
+
+## Framework:
+### **Independent Task** 独立口语：
+| Reading Task | Speaking         |
+| ------------ | ---------------- |
+| 15''         | 45'' continually |
+   
+### **Integrated Task I** 综合任务题一：
+| Listening | Reading | Speaking         |
+| --------- | ------- | ---------------- |
+| 50''-60'' | 30''    | 60'' continually |
+* **related to**:
+  * campus life related
+  * academyc related
+* **form**:
+  * coonversation
+  * lecture
+
+### **Integrated Task II** 综合任务题2：
+| Listening | Reading | Speaking |
+| --------- | ------- | -------- |
+|           |         |          |
+* **related to**:
+  * lecture-related
+* **form**:
+  * conversation
+  * lecture
+
+## 评分标准 （加分制）：
+### **Delivery**:
+* **Fluency** 流利度
+* **Pronunciation** 发音（区别于口音）
+* **Pace** 自然语速
+* **Natural inotation patterns** 断句
+  
+### **Language Use**:
+* **Grammar** 语法
+* **Vocabulary** 词汇
+**不需要特别复杂或者高端的词语和表达方式**
+
+### **Topic Development**:
+* 逻辑
+* 相关性
+* 完整回答问题
 <br><br>
+
+# Education
+---
+
+## expressions:
+* aspires to be
+* It's impossible ... without ...
+* study hard
+* get a degree
+* meet people
+* same interest
+* higher education
+* personal growth
+* network building
+<br><br>
+
 # Techonology
 ---
 
