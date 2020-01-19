@@ -87,7 +87,7 @@ ated world
 * prevent disease
 * no smoking/ smoking prohibited
 * purify(pure) the air polution
-* alleviate the problem of overpopulation
+* [alleviate](./vocabulary.md#alleviate "减轻") the problem of overpopulation
 * use up(run out of) resources
 * save tropical rainforest
 * sustainable energy(lasting energy) resources

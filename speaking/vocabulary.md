@@ -13,3 +13,6 @@
 ### fuel-efficient <a name="fuel-efficient"></a>
     节油的
 
+---
+### alleviate <a name="alleviate"></a>
+    减轻
