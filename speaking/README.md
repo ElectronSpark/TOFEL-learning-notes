@@ -154,3 +154,6 @@ ated world
 * sustainable energy(lasting energy) resources
 * factory waste dumping/ dump industrial waste
 * in emergent(crisis) situations
+
+
+* tone in cheeck 挖苦

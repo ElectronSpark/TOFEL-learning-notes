@@ -72,3 +72,6 @@
 >* seemingly off-topic
 >* compare two completely different ideas and use it's similarities to explain it
 >* 不要过于在意类比而跑题
+>* 连接词可以帮助确定词语
+
+读TPO12-L
