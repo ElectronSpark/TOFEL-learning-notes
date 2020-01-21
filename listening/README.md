@@ -11,7 +11,7 @@
 
 ---
 ## Chunk 重读:
-### content words 实词:
+## content words 实词:
 >**longer, higher, stronger**
 * **名词**
 * **动词**
@@ -73,5 +73,3 @@
 >* compare two completely different ideas and use it's similarities to explain it
 >* 不要过于在意类比而跑题
 >* 连接词可以帮助确定词语
-
-读TPO12-L
