@@ -199,6 +199,7 @@ ated world
   * the man/woman in this conversation - thinks it's a good/bad idea
   * If this plan goes through
   * 说的时候用**because ... plus ...**
+  * A means ...
 
 
 ## 笔记分区 ()
@@ -223,6 +224,9 @@ ated world
    3. since: |- / increase: (向上弯的箭头)
 
 # Campus
+* announcement
+* proposal
+
 ## activities
 * choir
 * sports club
@@ -254,6 +258,3 @@ ated world
 * gym, recreation center, statium, running trails, court ...
 ## see the doctor
 *  
-
-tpo 40-47 task3
-往后每天两篇口语

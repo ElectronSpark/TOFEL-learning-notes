@@ -64,3 +64,92 @@
 ### unravel <a name="unravel"></a>
     松散
     
+### persian 
+    波斯人
+
+### cellist
+    大提琴手
+
+### scribe
+
+
+### canny
+    精明的，知道怎么投资的
+
+### cunning
+    狡猾的
+
+### prudent
+    精明的
+
+### parsighted
+    精明的
+
+### trial
+    尝试
+
+### auditoriums
+    礼堂
+
+### acoustics
+    声学
+
+### persistence
+    耐心，持久性
+
+### ornament
+    装饰物
+
+### plaster
+    石膏
+
+### portrait
+    肖像
+
+### prestige
+    名声
+
+### longevity
+    存在长久
+    长寿
+
+### duration
+    持续时间
+
+### fecundity
+    大量繁殖
+
+### housefly
+    家蝇
+
+### fidelity
+
+### recap
+    简述
+
+### fledgling
+    雏鸟
+    菜鸟的
+
+### endowment
+    天赋
+    资金
+    捐赠
+
+### lubricant
+    润滑剂
+
+### brittle
+    脆
+
+### sludge
+    泥泞
+
+### ooze
+    缓慢的流出
+
+### realign
+    归位
+
+### downhill
+    往下走的状态

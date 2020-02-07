@@ -73,3 +73,46 @@
 >* compare two completely different ideas and use it's similarities to explain it
 >* 不要过于在意类比而跑题
 >* 连接词可以帮助确定词语
+
+## 人名和时间
+>* why does the professor mention something/ time?
+>* what does the professor imply about someone/ time?
+>* what's the professor's opinion about someone/ time?
+
+**信号词**
+  * like I said
+  * besides 观点变化
+  * another 观点变化
+  * that being said/ having said that 转折
+
+
+## 举例
+
+> 目的：具象化的表达，使论点更加清晰有说服力。
+> 论点+道理+例子+结论
+
+**出题形式**
+  * Why does the professor mention the example?
+  * What example does the professor give of ...?
+  * Which of the following are examples of ...?
+  * What does the professor compare to another example?
+
+**信号词**
+  * For example, given an example
+  * take ... (as example)
+  * (let's) say ...
+  * for instance ...
+
+  
+## 排序题
+**信号词**
+  * what happens is ...
+  * the process is ...
+  * ... several steps ...
+  * first ... second/ next/ then/ after that ... finally
+  * before that ...
+
+## 态度题
+**信号词**
+  * I think/ believe
+  * amazed/ suprised
